@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/node
 
 .DS_Store
+.vscode
 
 ### Node ###
 # Logs
@@ -50,5 +51,3 @@ jspm_packages
 # pytest cache
 .pytest_cache
 
-*.db
-lib/*.db
